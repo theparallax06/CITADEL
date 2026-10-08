@@ -359,11 +359,17 @@ After frontend changes, run `npm run build` before `npx cap sync android`.
 
 Replace these placeholders before SIH submission:
 
-- **Live Application:** https://the-parallax-citadel.netlify.app/
-- **GitHub Repository:** https://github.com/theparallax06/CITADEL
-- **Android APK:** 
-- **Project Demo:** 
-
+- **Live Application:**
+- https://the-parallax-citadel.netlify.app/
+- 
+- **GitHub Repository:**
+- https://github.com/theparallax06/CITADEL
+- 
+- **Android APK:**
+- https://github.com/theparallax06/CITADEL/releases/tag/v1.0.0
+- 
+- **Project Demo:**
+- https://youtu.be/3vmsluk5_XE
 ---
 
 ## 20. Team
